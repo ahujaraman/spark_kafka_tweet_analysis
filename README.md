@@ -9,7 +9,7 @@ The Application has features to extract the continous tweets based on location a
 
 
 <p align="center">
-  <img src="./#tagsmentions.PNG" alt="Live Popular HashTags"
+  <img src="spark_kafka_tweet_analysis/#tagsmentions.PNG" alt="Live Popular HashTags"
        width="654" height="450">
 </p>
 
