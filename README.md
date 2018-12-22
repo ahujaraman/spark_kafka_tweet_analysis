@@ -21,5 +21,5 @@ The Application has features to extract the continous tweets based on location a
 4. Dashboards showing trends are refreshed automatically to reflect the changing trends.
 
 
-## Spark Resources
+## Apache Spark Resources
 https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
