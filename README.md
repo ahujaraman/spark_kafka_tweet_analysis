@@ -19,3 +19,7 @@ The Application has features to extract the continous tweets based on location a
 2. Spark Application is continously listening to this port for new data.
 3. The streaming data is analyzed using spark RDD, Dataframes and used various spark operations like Map, Reduce, updateStateByKey for analysis on the tweets every 10 seconds.
 4. Dashboards showing trends are refreshed automatically to reflect the changing trends.
+
+
+## Spark Resources
+https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
