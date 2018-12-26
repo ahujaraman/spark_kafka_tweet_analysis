@@ -22,5 +22,5 @@ The Application has features to extract the continous tweets based on location a
 
 
 ## Apache Spark Resources
-https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
+https://jaceklaskowski.gitbooks.io/mastering-apache-spark/ <br/>
 Official Documentation Apache Spark : https://spark.apache.org/docs/latest/index.html
